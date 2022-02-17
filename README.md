@@ -31,7 +31,7 @@ Solving some of the world greatetst problems from the backyard in my house! Just
 
 <p align="jusify" >
 <a href="http://anthonykuoxin.com/"><img src="https://img.shields.io/badge/-anthonyfongkuoxin.com-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>&nbsp;&nbsp;
-<a href="https://docs.anthonykuoxin.com/"><img src="https://img.shields.io/badge/-anthonyfongkuoxin.com-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>&nbsp;&nbsp;
+<a href="https://docs.anthonykuoxin.com/"><img src="https://img.shields.io/badge/-datastuctures-FF5233?style=for-the-badge&logoColor=white%22"/></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/anthonyfongkuoxin/"><img src="https://img.shields.io/badge/-Anthony%20Fong-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>&nbsp;&nbsp;
 <a href="mailto:anthonyfongkuoxin@gmail.com"><img src="https://img.shields.io/badge/-anthonyfongkuoxin@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </p>
