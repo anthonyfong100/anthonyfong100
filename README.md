@@ -12,6 +12,7 @@ Solving some of the world greatetst problems from the backyard in my house! Just
 
 
 ### Where i have worked before ...
+<a href="https://www.citadel.com/" target="_blank"> <img   width="40" height="40" src="https://cdn.fs.brandfolder.com/cache=expiry:604800/z1qP51tmRl2IkCjMheMc"/> </a> 
 <a href="https://www.tiktok.com/en/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tiktok.png"/> </a> 
 <a href="https://shopee.sg/?gclid=CjwKCAjw5c6LBhBdEiwAP9ejGxBQwIG_VjUX-qY7TS1_qrtlg7thrjimqXs9apY-AGZ77BhzK3bGFBoC2AAQAvD_BwE" target="_blank"> <img src="https://img.icons8.com/color/48/000000/shopee.png"/> </a> 
 <a href="https://www.dathena.io/" target="_blank"> <img width="40" height="40" src="https://cdn.techinasia.com/data/images/2iQg6bQpWhwlfqneNgOFMltOabacXsMxw3kHyvff.png"/></a> 
